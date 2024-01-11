@@ -23,10 +23,10 @@
 
 ## Skills
 
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS
-- 🔭 Backend : NodeJs, Django, Express, Nestjs, Ruby on Rails
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#,
+- 🌱 Frontend : React, Next, Angular, Jquery, TailwindCSS
+- 🔭 Backend : NodeJs, Django, Express
+- 🧩 Database : MySQL, PostgreSQL, MongoDB
+- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP,  C#,
 - 📫 Interesting : AI, BigData, Machine Learning, IoT
 
 ## Hightlights
